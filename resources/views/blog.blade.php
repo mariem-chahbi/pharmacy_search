@@ -65,9 +65,9 @@ https://templatemo.com/tm-541-host-cloud
         <div class="row">
           <div class="col-md-8 offset-md-2">
             <div class="section-heading">
-              <span>Our Team</span>
-              <h2>Notre Nouveauté Sur La Santé</h2>
-              <p>Integer blandit, tellus varius vulputate cursus, purus orci tincidunt tortor, eget tincidunt elit justo non leo. Donec mollis nulla id est suscipit, ut laoreet nibh faucibus.</p>
+              
+              <h2>les Nouveauté Sur La Santé</h2>
+              
             </div>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
@@ -147,8 +147,8 @@ https://templatemo.com/tm-541-host-cloud
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <span>Testimonials</span>
-              <h2>What they say about us</h2>
+              <span><h5>COMMENT FAIRE POUR RESTER EN BONNE SANTÉ ?</h5></span>
+              
             </div>
           </div>
           <div class="col-md-10 offset-md-1">
@@ -157,25 +157,27 @@ https://templatemo.com/tm-541-host-cloud
                 <div class="icon">
                   <i class="fa fa-quote-right"></i>
                 </div>
-                <p>"Ut elementum a elit sed tristique. Pellentesque sed semper erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean quam erat, rutrum ut malesuada."</p>
-                <h4>William Smith</h4>
-                <span>New Co-Founder</span>
+                <h4>Manger équilibré et sainement</h4><br><br>
+                <p>"Si vous voulez être en bonne santé, faites attention à votre alimentation. Le sacro-saint ‘mangez 5 fruits et légumes par jour’ est une règle que vous avez dû entendre des dizaines de fois, mais il y a une raison à cela. Ces fruits et légumes ont un effet protecteur contre les maladies qui peuvent apparaître avec l’âge"</p>
+                
+                
               </div>
               <div class="testimonial-item">
                 <div class="icon">
                   <i class="fa fa-quote-right"></i>
                 </div>
-                <p>"Quisque lacinia sed velit et maximus. Quisque dictum, lacus a malesuada finibus, arcu magna luctus risus, eu accumsan risus elit vitae lacus."</p>
-                <h4>Vinny Smart</h4>
-                <span>Digital Marketer</span>
+                <h4>Buvez beaucoup d’eau</h4><br><br>
+                <p>"Boire de l’eau permet de maintenir une certaine forme physique. Vous devez vous assurer de boire suffisamment d’eau par jour pour être en pleine forme. Les médecins recommandent de boire 1,5 à 2 litres par jour. "</p>
+                
+                
               </div>
               <div class="testimonial-item">
                 <div class="icon">
                   <i class="fa fa-quote-right"></i>
                 </div>
-                <p>"Vestibulum mauris ipsum, tempor tincidunt justo sit amet, bibendum tincidunt dui. Aenean molestie, odio quis viverra ultricies, leo tellus lacinia neque, sit amet maximus tortor nunc aliquet felis."</p>
-                <h4>Trevor Liam</h4>
-                <span>Technology Chef</span>
+                <h4>Pratiquer une activité physique</h4><br><br>
+                <p>"Encore une fois, cela doit être quelque chose que vous entendez souvent. Cependant, l’exercice physique régulier est essentiel à tous les âges. Une activité physique aide à maintenir le corps et l’esprit, et peut prévenir l’apparition de certaines maladies, comme le cancer, les maladies cardiovasculaires, le diabète ou le surpoids. Cela permet également de lutter contre le stress et de mieux dormir."</p>
+                
               </div>
             </div>
           </div>
