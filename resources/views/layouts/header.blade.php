@@ -19,7 +19,7 @@
                 <a class="nav-link" href="/blog">Blog</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/about">A propos</a>
+                <a class="nav-link" href="/about">À propos de nous</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/contact">Contact </a>
