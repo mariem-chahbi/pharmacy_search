@@ -51,8 +51,8 @@ https://templatemo.com/tm-541-host-cloud
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1>Contact Us</h1>
-            <p><a href="index.html">Home</a> / <span>Contact Us</span></p>
+            <h1>Contact</h1>
+            <p><a href="/">Home</a></p>
           </div>
         </div>
       </div>
