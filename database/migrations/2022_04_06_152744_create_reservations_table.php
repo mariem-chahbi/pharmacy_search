@@ -13,13 +13,14 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('pharmacien', function (Blueprint $table) {
+        Schema::create('reservations', function (Blueprint $table) {
             $table->id();
-            $table->string('email')->unique();
-            $table->timestamp('email_verified_at')->nullable();
-            $table->string('password');
-            $table->foreignId('medicament_id')->constrained();
+            $table->date('date_reservation');
+            $table->integer('nb_reservation');
+            $table->dateTime('delais');
             $table->timestamps();
+            $table->foreignId('user_id')->constrained();
+            $table->foreignId('medicament_id')->constrained();
         });
     }
 
@@ -30,6 +31,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('pharmacien');
+        Schema::dropIfExists('reservations');
     }
 };
